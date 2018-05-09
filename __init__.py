@@ -1,4 +1,3 @@
-from flask import Flask
 from xml.etree import ElementTree as etree
 from urllib.request import urlopen
 import requests
@@ -70,7 +69,6 @@ def get_caf_food(rss_caf):
         }
     }
 }
-
 '''
 def create_json(food_list,menu):
     food_meal_time = {}
@@ -107,13 +105,8 @@ export_json.update(json_shaw)
 export_json.update(json_snyder)
 export_json.update(json_wilson)
 
-app = Flask(__name__)
-@app.route('/')
-def homepage():
-    return json.dumps(export_json,indent=4)
 
 if __name__ == "__main__":
-    app.run()
-
-
-
+    file = open('menu.json', 'w')
+    file.write(json.dumps(export_json, indent=4))
+    file.close()
