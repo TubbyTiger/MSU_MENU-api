@@ -1,0 +1,359 @@
+{
+    "Heritage Commons at Landon": {},
+    "The Gallery at Snyder Phillips": {},
+    "Wilson Dining Hall": {},
+    "Riverwalk Market at Owen": {
+        "Lunch": {
+            "Garden Wok Express": [
+                "Spicy Orange Ginger Chicken",
+                "Jasmine Rice",
+                "Tempura Chicken Breast",
+                "Teriyaki Sauce",
+                "Fried Rice",
+                "Stir Fry Sauce",
+                "Tofu",
+                "Vegetable Egg Roll",
+                "Chicken Breast",
+                "Vegan Chick'n Breast",
+                "Veggie Beef Tips",
+                "Mongolian Beef",
+                "Sweet and Sour Sauce"
+            ],
+            "Regular Delivery": [
+                "Smoked Turkey Wrap with Gouda",
+                "Pasta and Cheese",
+                "Wild Rice Taco Salad",
+                "Chicken Caesar Salad"
+            ]
+        },
+        "Dinner": {
+            "Regular Delivery": [
+                "Smoked Turkey Wrap with Gouda",
+                "Pasta and Cheese",
+                "Wild Rice Taco Salad",
+                "Chicken Caesar Salad"
+            ]
+        }
+    },
+    "South Pointe at Case": {},
+    "The Edge at Akers": {},
+    "Brody Square": {
+        "Breakfast": {
+            "Platform": [
+                "Sweet Potato Pancakes",
+                "Garlic Cream Potatoes",
+                "Hard Cooked Eggs",
+                "Chorizo Sausage Links",
+                "Scrambled Eggs"
+            ],
+            "Pangea": [
+                "Omelet",
+                "Waffles"
+            ]
+        },
+        "Late Night": {
+            "Dolce": [
+                "Assorted MSU Bakery Desserts",
+                "Assorted Hard Packed Ice Cream"
+            ],
+            "S2": [
+                "Salad Bar"
+            ]
+        },
+        "Lunch": {
+            "Dolce": [
+                "Assorted Hard Packed Ice Cream",
+                "Assorted MSU Bakery Desserts"
+            ],
+            "Soup": [
+                "Creamy Butternut and Bacon Soup",
+                "Pepper Pot Soup"
+            ],
+            "S2": [
+                "Miso and Tofu Soup",
+                "Spicy Vegetable Roll",
+                "Dragon Salmon Roll",
+                "Steamed Edamame"
+            ],
+            "Veg Out": [
+                "Brioche Garlic Bread",
+                "Cheese Cannelloni ",
+                "Mushroom Spinach Tortellini",
+                "Fresh Fruit Chunks",
+                "Potato Leek Soup",
+                "Sauteed Asparagus and Zucchini"
+            ],
+            "Cayenne's": [
+                "Stone Ground Corn Tortilla",
+                "Enchilada Sauce",
+                "Guacamole",
+                "Vegan Mexican Rice",
+                "Salsa Criolla",
+                "Beef Taco Meat",
+                "Chicken and Cheese Enchiladas",
+                "Refried Beans",
+                "Chicken Taco Meat",
+                "Tortilla Chips",
+                "Flour Tortilla"
+            ],
+            "Homestyle": [
+                "Dinner Roll",
+                "Mashed Potatoes",
+                "Roasted Honey Dill Carrots",
+                "Seasoned Rotisserie Chicken",
+                "Chicken Pot Pie",
+                "Chicken Gravy"
+            ],
+            "Boiling Point": [
+                "Garlic Butter Breadsticks",
+                "Pasta of the Day",
+                "Alfredo Sauce",
+                "Grilled Chicken Breast",
+                "Italian Tomato Sauce",
+                "Sundried Tomato Pesto with Parmesan"
+            ],
+            "Brimstone": [
+                "Haddock Fish Sandwich",
+                "Philly Beef Sandwich",
+                "Cheeseburger",
+                "Beef Hot Dog",
+                "Buffalo Chicken Sandwich",
+                "Garden Burger",
+                "Grilled Cheese",
+                "Chicken Patty Sandwich",
+                "BBQ Pulled Pork Sandwich",
+                "Burger",
+                "Seasoned Fries"
+            ],
+            "Ciao!": [
+                "Cheese Pizza",
+                "Pepperoni Pizza",
+                "Ultimate Italian Sausage Pizza"
+            ],
+            "Pangea": [
+                "Brown Rice",
+                "Lo Mein ",
+                "Stir Fry Sauce",
+                "Chicken Stir Fry Bar",
+                "Jasmine Rice",
+                "Orange Ginger Sauce"
+            ]
+        },
+        "Dinner": {
+            "Dolce": [
+                "Assorted Hard Packed Ice Cream",
+                "Assorted MSU Bakery Desserts"
+            ],
+            "Soup": [
+                "Pepper Pot Soup",
+                "Creamy Butternut and Bacon Soup"
+            ],
+            "S2": [
+                "Miso and Tofu Soup",
+                "Spicy Vegetable Roll",
+                "Dragon Salmon Roll",
+                "Steamed Edamame"
+            ],
+            "Veg Out": [
+                "Potato Leek Soup",
+                "Scrambled Eggs",
+                "Garden Vegatable Quiche",
+                "Strawberry Sauce",
+                "French Toast Sticks",
+                "Au Gratin Hash Browns",
+                "Fresh Fruit Chunks",
+                "Veggie Sausage Patties"
+            ],
+            "Cayenne's": [
+                "Vegan Mexican Rice",
+                "Refried Beans",
+                "Guacamole",
+                "Chicken and Cheese Enchiladas",
+                "Salsa Criolla",
+                "Beef Taco Meat",
+                "Stone Ground Corn Tortilla",
+                "Enchilada Sauce",
+                "Tortilla Chips",
+                "Chicken Taco Meat",
+                "Flour Tortilla"
+            ],
+            "Homestyle": [
+                "Tuscan Roasted Vegetables",
+                "Seasoned Rotisserie Chicken",
+                "Chicken Gravy",
+                "Garlic and Rosemary Pork Loin",
+                "Mashed Potatoes",
+                "Dinner Roll",
+                "Herbed Rice Pilaf "
+            ],
+            "Boiling Point": [
+                "Grilled Chicken Breast",
+                "Italian Tomato Sauce",
+                "Sundried Tomato Pesto with Parmesan",
+                "Garlic Butter Breadsticks",
+                "Pasta of the Day",
+                "Alfredo Sauce"
+            ],
+            "Brimstone": [
+                "Haddock Fish Sandwich",
+                "Philly Beef Sandwich",
+                "Cheeseburger",
+                "Beef Hot Dog",
+                "Buffalo Chicken Sandwich",
+                "Garden Burger",
+                "Grilled Cheese",
+                "Chicken Patty Sandwich",
+                "BBQ Pulled Pork Sandwich",
+                "Burger",
+                "Seasoned Fries"
+            ],
+            "Ciao!": [
+                "Cheese Pizza",
+                "Pepperoni Pizza",
+                "Ultimate Italian Sausage Pizza"
+            ],
+            "Pangea": [
+                "Guinness Lamb Stew",
+                "Chicken Stir Fry Bar",
+                "Jasmine Rice",
+                "Orange Ginger Sauce",
+                "Sauteed Cabbage ",
+                "Brown Rice",
+                "Lo Mein ",
+                "Stir Fry Sauce",
+                "Herbed Spaetzle"
+            ]
+        }
+    },
+    "The Vista at Shaw": {
+        "Breakfast": {
+            "Platform": [
+                "Maple Banana and Walnut Oatmeal",
+                "Sausage Links",
+                "Scrambled Eggs",
+                "Hard Cooked Eggs",
+                "Potato Gems",
+                "Congee with Ginger and Scallions",
+                "Spicy Sausage Gravy with Biscuits"
+            ]
+        },
+        "Lunch": {
+            "Dessert": [
+                "Satin Ribbon Bavarian Cake",
+                "Peanut Butter Cookie",
+                "Tres Leche Cake",
+                "Hot Fudge Sundae Torte",
+                "Blueberry Coffee Cake",
+                "Oatmeal Raisin Cookie",
+                "Double Chocolate Chip Cookie",
+                "Raspberry Filled Chocolate Cake",
+                "Oreo Brownie",
+                "White Iced Marble Sheet Cake",
+                "Cherry Pie",
+                "M&M Cookie",
+                "Chocolate Chip Cookie"
+            ],
+            "Garden": [
+                "Jalapeno Cheddar Cornbread",
+                "Vegan Jambalaya",
+                "Broccoli Pasta Salad",
+                "Vegan White Bean Chick'n Chili"
+            ],
+            "Breadbox": [
+                "Breadsticks",
+                "Philly Cheese Steak Pasta Bake",
+                "Italian Sausage and Tortellini Soup"
+            ],
+            "Wok": [
+                "Tofu",
+                "Lo Mein ",
+                "Beef Sirloin Roast",
+                "Jasmine Rice",
+                "Char Siu Bao",
+                "Soy Sauce Broth"
+            ],
+            "Street": [
+                "Burger",
+                "Iceberg Lettuce",
+                "Cheddar Cheese",
+                "Tomatoes",
+                "French Fries",
+                "Red Onions"
+            ],
+            "Main": [
+                "Basil Lemon Rice",
+                "Chicken Gyro",
+                "Breadsmith's Bakery Dinner Roll",
+                "Honey Butter",
+                "Steamed Baby Carrots with Parsley"
+            ],
+            "Grill Pub": [
+                "Grilled Cheese",
+                "Burger Bar",
+                "Breaded Chicken Patty",
+                "Beef Hot Dog",
+                "French Fries"
+            ]
+        },
+        "Dinner": {
+            "Dessert": [
+                "Oatmeal Raisin Cookie",
+                "Double Chocolate Chip Cookie",
+                "Raspberry Filled Chocolate Cake",
+                "Oreo Brownie",
+                "White Iced Marble Sheet Cake",
+                "Cherry Pie",
+                "M&M Cookie",
+                "Chocolate Chip Cookie",
+                "Satin Ribbon Bavarian Cake",
+                "Peanut Butter Cookie",
+                "Tres Leche Cake",
+                "Hot Fudge Sundae Torte",
+                "Blueberry Coffee Cake"
+            ],
+            "Garden": [
+                "Vegetable Empanada",
+                "Falafel",
+                "Basmati Rice",
+                "BBQ Sauce",
+                "Vegan White Bean Chick'n Chili",
+                "Grilled Vegan Chick'n Breast",
+                "Garlic Naan Bread",
+                "Broccoli Pasta Salad"
+            ],
+            "Wok": [
+                "Sweet and Spicy Broth",
+                "Pork Loin",
+                "Duck Potstickers",
+                "Lo Mein ",
+                "Jasmine Rice"
+            ],
+            "Breadbox": [
+                "Italian Sausage and Tortellini Soup",
+                "Pepperoni Pizza",
+                "Canadian Bacon and Pineapple Pizza",
+                "Cheese Pizza"
+            ],
+            "Grill Pub": [
+                "Grilled Cheese",
+                "Burger Bar",
+                "Breaded Chicken Patty",
+                "Beef Hot Dog",
+                "French Fries"
+            ],
+            "Main": [
+                "Chimichurri Sauce",
+                "Fresh Mixed Vegetable Saute",
+                "Brown Rice",
+                "London Broil ",
+                "Breadsmith's Bakery Dinner Roll",
+                "Honey Butter"
+            ],
+            "Street": [
+                "Steamed Corn",
+                "Garlic Chicken and Bulgur Lettuce Wrap"
+            ]
+        }
+    },
+    "Holden Dining Hall": {}
+}
